@@ -1,2 +1,0 @@
-# konoha
-liga1
