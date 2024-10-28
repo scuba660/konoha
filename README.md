@@ -10,3 +10,5 @@ http://xtv.ooo:8080/live/danyear12/am809100/351030.ts
 http://xtv.ooo:8080/live/danyear12/am809100/350972.ts
 #EXTINF:-1, Moji
 http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+#EXTINF:-1,Siar1
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
