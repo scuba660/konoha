@@ -42,4 +42,14 @@ https://www.bagitekno.net/office/cara-aktivasi-microsoft-office-gratis.html
 cara aktivasi ulang ofis
 ospprearm.exe paste copied sku id
 
+menemukan product key via regedit
+
+regedit
+HKLM
+Software
+Microsoft
+windows NT
+current version
+software protection platform
+
 
